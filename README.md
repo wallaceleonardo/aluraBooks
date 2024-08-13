@@ -13,3 +13,6 @@ https://meyerweb.com/eric/tools/css/reset/
 ## Artigos Alura:
 ### Reset CSS: O que é, exemplos, como Criar e usar
 https://www.alura.com.br/artigos/o-que-e-reset-css
+
+### CSS: seletores avançados que facilitam o desenvolvimento de aplicações web
+https://www.alura.com.br/artigos/css-seletores-avancados-aplicacoes-web
