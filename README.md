@@ -16,3 +16,12 @@ https://www.alura.com.br/artigos/o-que-e-reset-css
 
 ### CSS: seletores avançados que facilitam o desenvolvimento de aplicações web
 https://www.alura.com.br/artigos/css-seletores-avancados-aplicacoes-web
+
+### Flexbox CSS: Guia Completo, Elementos e Exemplos
+https://www.alura.com.br/artigos/css-guia-do-flexbox
+
+### Position CSS: entenda essa propriedade
+https://www.alura.com.br/artigos/entenda-a-propriedade-position-css
+
+### Guia de Unidades no CSS
+https://www.alura.com.br/artigos/guia-de-unidades-no-css
