@@ -12,7 +12,7 @@ https://meyerweb.com/eric/tools/css/reset/
 ### Link de importação da fonte do projeto AluraBooks
 https://fonts.google.com/specimen/Poppins?query=poppins
 
-### Link para o Plug-in SwiperJs
+### Link para o Plug-in SwiperJs para a criação do Carrossel de livros
 https://swiperjs.com/
 
 
