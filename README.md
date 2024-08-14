@@ -14,6 +14,7 @@ https://fonts.google.com/specimen/Poppins?query=poppins
 
 ### Link para o Plug-in SwiperJs para a criação do Carrossel de livros
 https://swiperjs.com/
+https://swiperjs.com/get-started
 
 
 ## Artigos Alura:
