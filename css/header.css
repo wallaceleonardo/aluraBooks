@@ -30,6 +30,7 @@
     display: none;
     position: absolute;
     top: 100%;
+    width: 60vw;
 }
 
 /* Menu hamburguer interativo */
@@ -48,8 +49,9 @@
 }
 
 .lista-menu__link {
-    background-color: var();
+    background: var(--azul-degrade);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-clip: text;
+    background-clip: text; 
+    text-transform: uppercase;
 }
