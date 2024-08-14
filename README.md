@@ -12,6 +12,9 @@ https://meyerweb.com/eric/tools/css/reset/
 ### Link de importação da fonte do projeto AluraBooks
 https://fonts.google.com/specimen/Poppins?query=poppins
 
+### Link para o Plug-in SwiperJs
+https://swiperjs.com/
+
 
 ## Artigos Alura:
 ### Reset CSS: O que é, exemplos, como Criar e usar
