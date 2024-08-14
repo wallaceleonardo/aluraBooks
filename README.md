@@ -9,6 +9,9 @@ https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks
 ### Link da meyerweb para a criação do arquivo __*reset.css*__
 https://meyerweb.com/eric/tools/css/reset/
 
+### Link de importação da fonte do projeto AluraBooks
+https://fonts.google.com/specimen/Poppins?query=poppins
+
 
 ## Artigos Alura:
 ### Reset CSS: O que é, exemplos, como Criar e usar
