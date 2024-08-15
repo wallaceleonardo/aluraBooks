@@ -32,3 +32,7 @@ https://www.alura.com.br/artigos/entenda-a-propriedade-position-css
 
 ### Guia de Unidades no CSS
 https://www.alura.com.br/artigos/guia-de-unidades-no-css
+
+### O que é o HTML e suas tags? Parte 3: elementos block-level
+https://www.alura.com.br/artigos/html-tags-elementos-block-level?utm_source=gnarus&utm_medium=timeline
+
