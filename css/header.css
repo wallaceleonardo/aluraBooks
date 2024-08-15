@@ -1,4 +1,4 @@
-/* propriedades do menu hamburguer do layout 428 (celular) */
+/* Propriedades do Mobile */
 .cabeçalho__menu-hamburguer {
     width: 24px;
     height: 24px;
@@ -60,3 +60,6 @@
 .container__botao {
     display: none;
 }
+
+/* Propriedades do Tablet */
+@media screen and (min-width: 1024px) {}

@@ -16,6 +16,9 @@ https://fonts.google.com/specimen/Poppins?query=poppins
 https://swiperjs.com/
 https://swiperjs.com/get-started
 
+### Media types
+https://www.w3.org/TR/CSS2/media.html
+
 
 ## Artigos Alura:
 ### Reset CSS: O que é, exemplos, como Criar e usar
@@ -35,4 +38,10 @@ https://www.alura.com.br/artigos/guia-de-unidades-no-css
 
 ### O que é o HTML e suas tags? Parte 3: elementos block-level
 https://www.alura.com.br/artigos/html-tags-elementos-block-level?utm_source=gnarus&utm_medium=timeline
+
+### Flexibilidade em páginas para dispositivos móveis com media queries
+https://www.alura.com.br/artigos/flexibilidade-em-paginas-para-dispositivos-moveis-com-media-queries
+
+### Pixels, pixels ou pixels? Dicas de Web Mobile com viewport
+https://www.alura.com.br/artigos/pixels-pixels-ou-pixels-dicas-de-web-mobile-com-viewport
 
