@@ -45,3 +45,6 @@ https://www.alura.com.br/artigos/flexibilidade-em-paginas-para-dispositivos-move
 ### Pixels, pixels ou pixels? Dicas de Web Mobile com viewport
 https://www.alura.com.br/artigos/pixels-pixels-ou-pixels-dicas-de-web-mobile-com-viewport
 
+### Por que um design responsivo é importante para potencializar seu marketing?
+https://www.alura.com.br/artigos/por-que-um-design-responsivo-e-importante-para-potencializar-seu-marketing
+
