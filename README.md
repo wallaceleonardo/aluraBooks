@@ -19,6 +19,11 @@ https://swiperjs.com/get-started
 ### Media types
 https://www.w3.org/TR/CSS2/media.html
 
+### Pseudo-classes
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes
+
+### Pseudo-elementos
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements
 
 ## Artigos Alura:
 ### Reset CSS: O que é, exemplos, como Criar e usar
