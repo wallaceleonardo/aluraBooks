@@ -36,6 +36,7 @@
     padding-left: 2em;
 }
 
+/* Propriedades de responsividade do Tablet - Layout 1024 */
 @media screen and (min-width: 1024px) {
     .contato {
         display: flex;
@@ -55,5 +56,14 @@
     .contato__email {
         width: 30%;
     }
+
+}
+
+/* Propriedades de responsividade do Tablet - Layout 1728 */
+@media screen and (min-width: 1728px) {
+    .contato {
+        padding: 3em 20vw;
+    }
+
 
 }

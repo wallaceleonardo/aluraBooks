@@ -69,7 +69,11 @@
     display: none;
 }
 
-/* Propriedades do Tablet */
+.container__texto {
+    display: none;
+}
+
+/* Propriedades de responsividade do Tablet - Layout 1024 */
 @media screen and (min-width: 1024px) {
     .container__titulo, 
     .container__titulo--negrito {
@@ -118,3 +122,29 @@
         display: none;
     }
 }
+
+/* Propriedades de responsividade do Desktop - Layout 1728 */
+
+@media screen and (min-width: 1728px) {
+    
+    .container__link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+    }
+
+    .cabeçalho {
+        padding: 0 2em;
+    }
+
+    .opções {
+        margin-right: auto;
+    }
+
+    .container__texto {
+        display: block;
+    }
+
+}
+

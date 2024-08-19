@@ -36,6 +36,7 @@
 }
 /* Fim barra de pesquisa*/
 
+/* Propriedades de responsividade do Tablet - Layout 1024 */
 @media screen and (min-width: 1024px) {
     .banner__titulo {
         font-size: 36px;
@@ -48,4 +49,21 @@
     .banner__pesquisa::placeholder {
         background-position: 7em;
     }
+}
+
+/* Propriedades de responsividade do Tablet - Layout 1024 */
+@media screen and (min-width: 1728px) {
+    .banner__pesquisa {
+        width: 35%;    
+    }
+
+    .banner__pesquisa::placeholder {
+        background-position: 12em;
+    }
+
+    .banner {
+        padding: 6em 0;
+    }
+    
+
 }
